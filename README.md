@@ -3,7 +3,7 @@
 ### ✨Introduction
 - Name: Muhammad Naufal Mathara Rahman ( call me *Athar* )
 - School: Telcom Vocational School
-- Discord: ImDruze#0001
+- Discord: ImDruze#8310
 - Website: https://druzefx.my.id/
 
 ### 📞 Contact Me
