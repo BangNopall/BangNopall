@@ -4,7 +4,7 @@
 - Name: Muhammad Naufal Mathara Rahman ( call me *Athar* )
 - School: Telcom Vocational School
 - Discord: ImDruze#8310
-- Website: https://www.noxval.site/
+- Website: https://www.noxval.my.id/
 
 ### 📞 Contact Me
 - Instagram: [@aathrr._](https://www.instagram.com/aathrr._/)
