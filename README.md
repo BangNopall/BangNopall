@@ -1,7 +1,7 @@
 # 👋Hello Everyone!
 
 ### ✨Introduction
-- Name: Muhammad Naufal Mathara Rahman ( call me *Athar* )
+- Name: Muhammad Naufal Mathara Rahman ( call me *Nopal* )
 - School: Telcom Vocational School
 - Discord: ImDruze#8310
 - Website: https://www.noxval.my.id/
