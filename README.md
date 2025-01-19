@@ -6,7 +6,7 @@
 Welcome to my page! <br>
 
 ### ⇛ Muhammad Naufal Mathara Rahman
-- 18 years old
+- 19 years old
 - [Telkom Vocational High School](https://smktelkom-mlg.sch.id/p/profil-sekolah.html) graduate majoring in computer and network engineering.
 - Student [University of Brawijaya](https://www.linkedin.com/school/universitas-brawijaya/about/) majoring in computer engineering.
 
