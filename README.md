@@ -1,7 +1,7 @@
 # Hi, Nice to see you👋
 
 [![Instagram](https://img.shields.io/badge/aathrr.-%23E4405F.svg?label=&logo=instagram&style=flat-square&logoColor=ffffff)](https://www.instagram.com/aathrr._/)
-[![web](https://img.shields.io/badge/%F0%9F%8C%90-noxval.biz.id-blue)](https://noxval.biz.id)
+[![web](https://img.shields.io/badge/%F0%9F%8C%90-noxval.me-blue)](https://noxval.me)
 
 Welcome to my page! <br>
 
