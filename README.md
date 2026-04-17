@@ -6,7 +6,7 @@
 Welcome to my page! <br>
 
 ### ⇛ Muhammad Naufal Mathara Rahman
-- 19 years old
+- 20 years old
 - [Telkom Vocational High School](https://smktelkom-mlg.sch.id/p/profil-sekolah.html) graduate majoring in computer and network engineering.
 - Student [University of Brawijaya](https://www.linkedin.com/school/universitas-brawijaya/about/) majoring in computer engineering.
 
@@ -14,11 +14,6 @@ I'm Naufal, An experienced information technology enthusiast with interests in c
 
 ## 💻 Metrics Profile
 ![Metrics](https://raw.githubusercontent.com/BangNopall/BangNopall/main/github-metrics.svg)
-
-## 📦 Latest Project
-- E-Klinik Polbangtan-mlg (Clinic Management  with Laravel and TailwindCSS)
-- Dormitory Management Polbangtan-mlg (Dormitory Management with Laravel and TailwindCSS)
-- SipArsip (archiving urban village data with Laravel and TailwindCSS)
 
 ## 🔨 Language Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
